@@ -11,6 +11,7 @@
 ## FLUJO TRABAJO GIT
 
 1. git init
-2. add .
-3. git commit -m "message"
-4. git push -u origin main
+2. add . (working directory => staging area)
+3. git commit -m "message" (staging area => repository)
+4. git push -u origin main (repository => git hub)
+5. Este es el flujo basico para subir cambios a la nube
