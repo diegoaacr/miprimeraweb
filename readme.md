@@ -7,3 +7,10 @@
 5. git log : Lista los commits del proyecto
 6. git log --oneline : Lista commits abreviados
 7. git push
+
+## FLUJO TRABAJO GIT
+
+1. git init
+2. add .
+3. git commit -m "message"
+4. git push -u origin main
