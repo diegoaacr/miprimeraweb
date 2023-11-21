@@ -6,3 +6,4 @@
 4. git commit -m : Hace un punto en el ciclo de vida del proyecto
 5. git log : Lista los commits del proyecto
 6. git log --oneline : Lista commits abreviados
+7. git push
